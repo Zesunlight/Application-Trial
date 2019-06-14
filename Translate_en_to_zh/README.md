@@ -1,6 +1,3 @@
-# Application-Trial
-
-
 ### translate_use_baidu_api.py
 - translate Chinese to English
 - 百度翻译API
