@@ -40,7 +40,7 @@ def text_to_img_2(text):
     display_surface.blit(ft2, ft2_pos)
 
     pygame.display.flip()
-    pygame.image.save(display_surface, 'text_to_img_by_pygame.png.png')
+    pygame.image.save(display_surface, 'text_to_img_by_pygame.png')
 
 
 if __name__ == '__main__':
