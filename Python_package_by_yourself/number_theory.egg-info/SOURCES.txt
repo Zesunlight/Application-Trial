@@ -1,0 +1,13 @@
+README.md
+setup.py
+number_theory/__init__.py
+number_theory/property.py
+number_theory.egg-info/PKG-INFO
+number_theory.egg-info/SOURCES.txt
+number_theory.egg-info/dependency_links.txt
+number_theory.egg-info/top_level.txt
+number_theory/calculate/Euclidean_norm.py
+number_theory/calculate/__init__.py
+number_theory/calculate/arithmetic.py
+number_theory/calculate/advanced/Bezout_lemma.py
+number_theory/calculate/advanced/__init__.py
