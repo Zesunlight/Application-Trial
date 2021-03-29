@@ -1,3 +1,4 @@
-# Application-Trial
+- 自己参加的比赛
+- 平时的一些练习
+- 想做的小应用
 
-Scattered stars
